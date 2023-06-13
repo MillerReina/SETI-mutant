@@ -1,0 +1,21 @@
+#principal-container {
+    height: 100vh;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.secondary-container {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+canvas {
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
